@@ -74,6 +74,22 @@
                     "class": "DepictionSpacerView"
                 },
                 {
+                    "text": "December 10, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "0.0.3"
+                },
+                {
+                    "markdown": "- Settings improvements",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "text": "November 17, 2024",
                     "class": "DepictionTableTextView",
                     "title": "0.0.2"
