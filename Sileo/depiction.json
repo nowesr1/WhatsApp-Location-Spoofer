@@ -74,6 +74,22 @@
                     "class": "DepictionSpacerView"
                 },
                 {
+                    "text": "January 7, 2026",
+                    "class": "DepictionTableTextView",
+                    "title": "0.0.4"
+                },
+                {
+                    "markdown": "- Added compatibility for latest WhatsApp versions",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "text": "December 10, 2025",
                     "class": "DepictionTableTextView",
                     "title": "0.0.3"
